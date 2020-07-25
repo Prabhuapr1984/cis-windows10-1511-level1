@@ -1,12 +1,11 @@
 ---
 name: cis-windows10-1511-level1
 title: CIS Microsoft Windows 10 Enterprise (Release 1511) Benchmark  Level 1
-summary: CIS Microsoft Windows 10 Enterprise (Release 1511) Benchmark  Level 1 translated
-  from SCAP
-version: 1.1.0-5
-maintainer: Chef Software, Inc.
+summary: CIS Microsoft Windows 10 Enterprise v1511
+version: 1.1.1
+maintainer: Prabu Jaganathan.
 copyright: Chef Software, Inc.
-copyright_email: support@chef.io
+copyright_email: JaganP.Architect@gmail.com
 license: Proprietary, All rights reserved
 supports:
-- platform-family: windows
+- platform-family: windows 10

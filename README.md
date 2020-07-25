@@ -66,5 +66,4 @@ inspec exec https://github.com/Prabhuapr1984/cb-cis-level1-windows10-1511 -t win
 
 ## Contributors
 
-* Prabu Jaganathan [Prabhuapr1984](https://github.com/Prabhuapr1984)# cis-windows10-1511-level1
-chef inspec for cis windows10 level1 security standards
+* Prabu Jaganathan [Prabhuapr1984](https://github.com/Prabhuapr1984) 
